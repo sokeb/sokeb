@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif"  />
+  <img height="250" src="https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">hey there 👋 I I'm Md Hasanuzzam Sakib</h1>
+<h1 align="center">hey there 👋 I'm Md Hasanuzzam Sakib</h1>
 
 ###
 
