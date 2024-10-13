@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h1 align="center">hey there 👋 I'm Md Hasanuzzam Sakib</h1>
+<h1 align="center">Hey there 👋 I'm Md Hasanuzzam Sakib</h1>
 
 ###
 
